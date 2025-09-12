@@ -1,8 +1,7 @@
 # Leid Zejnilović, Ph.D.
 **Associate Professor | Nova School of Business and Economics**
 
-📧 Leid.zejnilovic@novasbe.pt  
-🌐 [Google Scholar](https://scholar.google.com/)
+🌐 [Google Scholar](https://scholar.google.com/citations?user=MQbVSW4AAAAJ&hl=en)
 🌐 [Nova SBE Profile](https://www2.novasbe.unl.pt/en/)
 
 ---
