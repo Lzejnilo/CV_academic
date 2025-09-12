@@ -2,6 +2,9 @@
 **Associate Professor | Nova School of Business and Economics**
 
 📧 Leid.zejnilovic@novasbe.pt  
+🌐 [Google Scholar](https://scholar.google.com/)
+🌐 [Nova SBE Profile](https://www2.novasbe.unl.pt/en/)
+
 ---
 
 ## 🎯 Current Positions
@@ -367,7 +370,7 @@
 ## 💼 Past Professional Experience
 
 - **Associate Dean for AI and Digital Transformation** (April 2025 - Present)
-- ****Assistant Professor**, Nova School of Business and Economics (Sep 2016 – Mar 2025)
+- **Assistant Professor**, Nova School of Business and Economics (Sep 2016 – Mar 2025)
 - **Academic Director**, With-Africa platform of the Westmont Tourism Knowledge Center at Nova School of Business and Economics (January 2021 – September 2025)
 - **Member of the Tourism International Academy launching committee** – a joint initiative of Nova University of Lisbon, Estoril School of Tourism, and Turismo de Portugal
 - **Co-Founder and Academic Director**, Data Science Knowledge Center at Nova School of Business and Economics (https://www2.novasbe.unl.pt/data-science/overview)  (September 2018 – December 2024)
