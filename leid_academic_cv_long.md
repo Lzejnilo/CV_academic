@@ -377,7 +377,7 @@
 - **Program Director**, Data Science for Social Good Summer Fellowship @Imperial College (summer 2019)
 - **Visiting Researcher**, Imperial College Business School (May-August 2019)	
 - **Director** at Data Science for Social Good – Europe (http://dssg.uchicago.edu/europe), a collaborative project between the University of Chicago and Nova SBE (since December 2016).
-- **Postdoctoral Research Fellow**- Católica-Lisbon School of Business and Economics (since Dec-2014).
+- **Postdoctoral Research Fellow**- Católica-Lisbon School of Business and Economics (2015-2016).
 - **Doctoral Student / Researcher**– Carnegie Mellon University (2009-2014) 
 - **University Senate Member** - Dzemal Bijedic University, Dept. of Information Technology, Bosnia & Herzegovina (2008-2009)
 - **Lecturer and Executive Board Member** - Dzemal Bijedic University, Dept. of Information Technology, Bosnia & Herzegovina (2005-2009)
