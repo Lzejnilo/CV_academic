@@ -2,9 +2,6 @@
 **Associate Professor | Nova School of Business and Economics**
 
 📧 Leid.zejnilovic@novasbe.pt  
-🏛️ Associate Dean for AI and Digital Transformation  
-🔬 Academic Co-director, The Digital, Data, and Design Institute  
-
 ---
 
 ## 🎯 Current Positions
@@ -17,10 +14,8 @@
 
 **External Affiliations**
 - **Associate Editor**, Data & Policy Journal, Cambridge University Press (2021 - Present)
-- **Founder**, WeMission Community (Decentralized Autonomous Organization)
-- **Co-founder & Chairman**, Data Science for Social Good Foundation (2019 - Present)
 - **Consultant & Executive Board Member**, Patient Innovation (2012 - Present)
-- **Co-Founder**, Orka Global (2003 - Present)
+- **Co-Founder**, Orka (2003 - Present)
 
 ---
 
@@ -369,15 +364,23 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Past Professional Experience
 
-### Current Affiliations (Nova SBE)
 - **Associate Dean for AI and Digital Transformation** (April 2025 - Present)
-- **Associate Professor** (April 2025 - Present)
-- **Academic Co-director**, The Digital, Data, and Design Institute (January 2025 - Present)
-- **Academic Director**, Open and User Innovation Knowledge Center (June 2022 - Present)
+- ****Assistant Professor**, Nova School of Business and Economics (Sep 2016 – Mar 2025)
+- **Academic Director**, With-Africa platform of the Westmont Tourism Knowledge Center at Nova School of Business and Economics (January 2021 – September 2025)
+- **Member of the Tourism International Academy launching committee** – a joint initiative of Nova University of Lisbon, Estoril School of Tourism, and Turismo de Portugal
+- **Co-Founder and Academic Director**, Data Science Knowledge Center at Nova School of Business and Economics (https://www2.novasbe.unl.pt/data-science/overview)  (September 2018 – December 2024)
+- **Co-Founder of the program (and Scientific Director)** - Data Science for Managers, Executive Education program at Nova SBE.
+- **Program Director**, Data Science for Social Good Summer Fellowship @Imperial College (summer 2019)
+- **Visiting Researcher**, Imperial College Business School (May-August 2019)	
+- **Director** at Data Science for Social Good – Europe (http://dssg.uchicago.edu/europe), a collaborative project between the University of Chicago and Nova SBE (since December 2016).
+- **Postdoctoral Research Fellow**- Católica-Lisbon School of Business and Economics (since Dec-2014).
+- **Doctoral Student / Researcher**– Carnegie Mellon University (2009-2014) 
+- **University Senate Member** - Dzemal Bijedic University, Dept. of Information Technology, Bosnia & Herzegovina (2008-2009)
+- **Lecturer and Executive Board Member** - Dzemal Bijedic University, Dept. of Information Technology, Bosnia & Herzegovina (2005-2009)
+- **CEO and co-Founder** – Orka Ltd. Sarajevo (2003-2005)
+- **Process Control Engineer** at Simeco Milano s.r.l –Branch in Sarajevo, Bosnia & Herzegovina (2003).
+- **Consultant & Project Manager**, Pro Systems Intl., Bosnia & Herzegovina (2000-2003)
 
-### External Current Affiliations
-- **Associate Editor**, Data & Policy Journal, Cambridge University Press (January 2021 - Present)
-- **Founder**, WeMission Community (Decentralized Autonomous Organization)
-- **Co-founder and Chairman**,
+
