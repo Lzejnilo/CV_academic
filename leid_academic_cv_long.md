@@ -36,35 +36,39 @@
 
 ### Peer-Reviewed Journal Articles
 
-1. **Applebee, S., Zejnilovic, L.** (2025) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Impact Investors" *Journal of Responsible Innovation* (Forthcoming)
+1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Constitutive Collective Bricolage: Creating Organizations from Nothing" Conditionally accepted at the *Academy of Management Journal*
 
-2. **Abreu-Novais, M., Vasarhelyi O., Kaushik, M., Del Papa, B., Wang Y., Han, Q., Zejnilovic L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Management*
+2. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation In The Wild: Institutionalising Responsibility in Digital Innovation" Conditionally accepted at the *Journal of Product Innovation Management*
 
-3. **Lavado, S., Costa, E., Sturm, N. S., Tafferner, J.S., Rodrigues, O., Barros, P.P., Zejnilovic, L.** (2025) "A low-cost and scalable model to predict oral health among children and youth" *PlosONE* (Forthcoming)
+3. **Applebee, S., Zejnilovic, L.** (2025) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Impact Investors" Conditionally accepted at the *Journal of Responsible Innovation* 
 
-4. **Zejnilovic, L., Lavado, S., Grilo, C., Sa, R., Faias, S.** (2024) "Small-scale fisheries in Portugal: unusual patterns of the first sale of seafood during covid-19 pandemic" *Marine Policy*
+4. **Abreu-Novais, M., Vasarhelyi O., Kaushik, M., Del Papa, B., Wang Y., Han, Q., Zejnilovic L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Management*
 
-5. **Cennamo, C., Oliveira, P., Zejnilovic L.** (2022) "Unlocking Innovation in Healthcare: The Case of the Patient Innovation Platform" *California Management Review* 6(4)
+5. **Lavado, S., Costa, E., Sturm, N. S., Tafferner, J.S., Rodrigues, O., Barros, P.P., Zejnilovic, L.** (2025) "A low-cost and scalable model to predict oral health among children and youth" *PlosONE* (Forthcoming)
 
-6. **Han, Q., Abreu, M., Zejnilovic, L.** (2021) "Toward travel pattern aware tourism region planning: A big data approach" *International Journal of Contemporary Hospitality Management*
+6. **Zejnilovic, L., Lavado, S., Grilo, C., Sa, R., Faias, S.** (2024) "Small-scale fisheries in Portugal: unusual patterns of the first sale of seafood during covid-19 pandemic" *Marine Policy*
 
-7. **Zejnilovic, L., Lavado, S., Troya, I.M.R., Bell, A, Sim, S.** (2020) "Algorithmic long-term unemployment risk assessment in use: counsellors' perceptions and use practices" *Global Perspectives* 1(1)
+7. **Cennamo, C., Oliveira, P., Zejnilovic L.** (2022) "Unlocking Innovation in Healthcare: The Case of the Patient Innovation Platform" *California Management Review* 6(4)
 
-8. **Genzlinger, F., Zejnilovic, L., Bustinza, O. F.** (2020) "Servitization in the automotive industry: How car manufacturers become mobility service providers" *Strategic Change* 29(2), 215-226
+8. **Han, Q., Abreu, M., Zejnilovic, L.** (2021) "Toward travel pattern aware tourism region planning: A big data approach" *International Journal of Contemporary Hospitality Management*
 
-9. **Oliveira P, Zejnilovic, L, Azevedo, S, Rodrigues, AM, Canhão, H** (2019) "Peer Adoption and Development of Health Innovations by Patients: National Representative Study of 6204 Citizens" *J Med Internet Res* 2019; 21(3):11726
+9. **Zejnilovic, L., Lavado, S., Troya, I.M.R., Bell, A, Sim, S.** (2020) "Algorithmic long-term unemployment risk assessment in use: counsellors' perceptions and use practices" *Global Perspectives* 1(1)
 
-10. **Canhão H., Zejnilovic L., Oliveira P.** (2017) "Patient innovation: Sharing Solutions, Improving lives" *European Medical Journal*
+10. **Genzlinger, F., Zejnilovic, L., Bustinza, O. F.** (2020) "Servitization in the automotive industry: How car manufacturers become mobility service providers" *Strategic Change* 29(2), 215-226
+    
+12. **Oliveira P, Zejnilovic, L, Azevedo, S, Rodrigues, AM, Canhão, H** (2019) "Peer Adoption and Development of Health Innovations by Patients: National Representative Study of 6204 Citizens" *J Med Internet Res* 2019; 21(3):11726
 
-11. **Canhao, H., Oliveira, P., Zejnilovic, L.** (2017) "Patient Innovation — Empowering Patients, Sharing Solutions, Improving Lives" *New England Journal of Medicine – Catalyst*
+13. **Canhão H., Zejnilovic L., Oliveira P.** (2017) "Patient innovation: Sharing Solutions, Improving lives" *European Medical Journal*
 
-12. **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** (2015) "Patient innovation under rare diseases and chronic conditions" *Orphanet Journal of Rare Diseases* 2015, 10:41
+14. **Canhao, H., Oliveira, P., Zejnilovic, L.** (2017) "Patient Innovation — Empowering Patients, Sharing Solutions, Improving Lives" *New England Journal of Medicine – Catalyst*
+
+15. **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** (2015) "Patient innovation under rare diseases and chronic conditions" *Orphanet Journal of Rare Diseases* 2015, 10:41
 
 ### Peer-Reviewed Book Chapters
 
 1. **Silva, R., Zejnilovic, L., Oliveira, P.** (2023) "Improvisation and Bricolage as actions: Similarities and differences between two approaches to resource scarcity" Chapter 1, in "The Routledge companion to improvisation in organizations", p. 29-49, Routledge
 
-2. **Zejnilovic L., Campos P.** (2023) "Project-based learning with a social impact: how data movements are making an impact on the society and the academic education" in J. Ridgway (ed.) Statistics for Empowerment and Social Engagement – teaching Civic Statistics to develop informed citizens. Springer
+2. **Zejnilovic L., Campos P.** (2023) "Project-based learning with a social impact: how data movements are making an impact on society and academic education" in J. Ridgway (ed.) Statistics for Empowerment and Social Engagement – teaching Civic Statistics to develop informed citizens. Springer
 
 3. **Oliveira P., Zejnilovic L., Canhão H.** (2017) "Challenges and opportunities in developing and sharing solutions by patients and caregivers, the story of a knowledge commons for the patient innovation project" Governing Medical Research Commons- Cambridge Series on Governing Knowledge Commons, Cambridge Press
 
@@ -78,11 +82,9 @@
 ### Working Papers
 
 **Under Review**
-1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** "Constitutive Collective Bricolage: Creating Organizations from Nothing" 3rd round R&R at the Academy of Management Journal
-2. **Applebee, S., Zejnilovic, L.** "Responsible Innovation In The Wild: Institutionalising Responsibility in Digital Innovation" R&R at the Journal of Product Innovation Management
-3. **da Silva, R. C., Duymedjian, R., Rüling, C. C., Zejnilovic, L.** "Collective Bricolage To Know The Unknowable: Community-Based Learning And Practice Innovation For Generative AI" R&R at the Technological Forecasting and Social Change Journal
+1. **da Silva, R. C., Duymedjian, R., Rüling, C. C., Zejnilovic, L.** "Collective Bricolage To Know The Unknowable: Community-Based Learning And Practice Innovation For Generative AI" 2 round R&R at the Technological Forecasting and Social Change Journal
 
-**To be (re)submitted in 2025**
+**To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
 2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
 
@@ -196,6 +198,10 @@
 ## 🗣️ Invited Talks & Keynotes
 
 ### 2025
+- **"The future of consulting in the age of AI"** NovaSBE Junior Consulting Student Club – Moderator, Lisbon, Portugal (November)
+- **"AI in supply chain"** BBM Tech Festival – Panel Speaker, Sao Paulo, Brazil (October)
+- **"AI-Powered Collaboration Engines"** Innovation Ecosystem – Panel Speaker, Lisbon, Portugal (October)
+- **"Resiliência digital em Saúde"** 1º Fórum Clínico APHP (Associação Portuguesa de Hospitalização Privada  – Panel Speaker, Lisbon, Portugal (October)
 - **"AI: a new powerful influencer"** ICON – International Conference about Influence, Panel Speaker, Lisbon, Portugal (June)
 - **"Technology Regulation and Blockchain"** UBRI Network Panel, National University of Singapore, Panelist (June)
 - **"Dawn of AI Revolution: Turning to AI for tourism, travel and hospitality business growth and profitability"** Africa Youth In Tourism Innovation Summit & Challenge, Keynote, Johannesburg, South Africa (June)
