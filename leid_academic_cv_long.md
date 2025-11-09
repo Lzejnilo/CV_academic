@@ -36,7 +36,7 @@
 
 ### Peer-Reviewed Journal Articles
 
-1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Constitutive Collective Bricolage: Creating Organizations from Nothing" Conditionally accepted at the *Academy of Management Journal*
+1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" Conditionally accepted at the *Academy of Management Journal*
 
 2. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation In The Wild: Institutionalising Responsibility in Digital Innovation" Conditionally accepted at the *Journal of Product Innovation Management*
 
