@@ -195,10 +195,12 @@
 
 ---
 
-## 🗣️ Invited Talks & Keynotes
+## 🗣️ Invited Talks, Keynotes, and other public speaking
 
 ### 2025
+- **"The adoption of AI"** Panel participant – International Conference on Artificial Intelligence, Luanda, Angola (December)
 - **"The future of consulting in the age of AI"** NovaSBE Junior Consulting Student Club – Moderator, Lisbon, Portugal (November)
+- **"From generative AI to distributed and agentic AI"** Fireside Chat with Illia Polosukhin – Lisbon, Portugal (November)
 - **"AI in supply chain"** BBM Tech Festival – Panel Speaker, Sao Paulo, Brazil (October)
 - **"AI-Powered Collaboration Engines"** Innovation Ecosystem – Panel Speaker, Lisbon, Portugal (October)
 - **"Resiliência digital em Saúde"** 1º Fórum Clínico APHP (Associação Portuguesa de Hospitalização Privada  – Panel Speaker, Lisbon, Portugal (October)
