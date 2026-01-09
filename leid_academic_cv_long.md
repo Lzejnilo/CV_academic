@@ -60,7 +60,7 @@
 
 13. **Canhão H., Zejnilovic L., Oliveira P.** (2017) "Patient innovation: Sharing Solutions, Improving lives" *European Medical Journal*
 
-14. **Canhao, H., Oliveira, P., Zejnilovic, L.** (2017) "Patient Innovation — Empowering Patients, Sharing Solutions, Improving Lives" *New England Journal of Medicine – Catalyst*
+14. **Canhao, H., Oliveira, P., Zejnilovic, L.** (2017) "Patient Innovation — Empowering Patients, Sharing Solutions, Improving Lives" *NEJM Catalyst Innovations in Care Delivery*
 
 15. **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** (2015) "Patient innovation under rare diseases and chronic conditions" *Orphanet Journal of Rare Diseases* 2015, 10:41
 
