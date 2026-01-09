@@ -40,9 +40,9 @@
 
 2. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation In The Wild: Institutionalising Responsibility in Digital Innovation" Conditionally accepted at the *Journal of Product Innovation Management*
 
-3. **Applebee, S., Zejnilovic, L.** (2025) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Impact Investors" Conditionally accepted at the *Journal of Responsible Innovation* 
+3. **Applebee, S., Zejnilovic, L.** (2025) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Impact Investors" *Journal of Responsible Innovation* 
 
-4. **Abreu-Novais, M., Vasarhelyi O., Kaushik, M., Del Papa, B., Wang Y., Han, Q., Zejnilovic L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Management*
+4. **Abreu-Novais, M., Vasarhelyi O., Kaushik, M., Del Papa, B., Wang Y., Han, Q., Zejnilovic L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Marketing*
 
 5. **Lavado, S., Costa, E., Sturm, N. S., Tafferner, J.S., Rodrigues, O., Barros, P.P., Zejnilovic, L.** (2025) "A low-cost and scalable model to predict oral health among children and youth" *PlosONE*
 
