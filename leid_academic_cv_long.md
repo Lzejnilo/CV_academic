@@ -38,7 +38,7 @@
 
 1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" Forthcoming at the *Academy of Management Journal*
 
-2. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation In The Wild: Institutionalising Responsibility in Digital Innovation" Forthcoming at the *Journal of Product Innovation Management*
+2. **Applebee, S., Zejnilovic, L.** (2026) " Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management* 
 
 3. **Applebee, S., Zejnilovic, L.** (2025) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Impact Investors" *Journal of Responsible Innovation* 
 
