@@ -87,6 +87,7 @@
 **To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
 2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
+3. **Daramola, A., Zejnilovic, L. Berti, M., Cunha, M.P.** "The House That Rebuilds Itself: Social Architecture And Ecosystem Genesis In Weak Institutional Environments"
 
 *Note: Approximately 10 additional papers are at various stages of development*
 
@@ -190,12 +191,17 @@
 ## 👥 Supervision
 
 - **120+ Master's theses** supervised (2013 - Present)
-- **4 Ph.D. students** currently supervising (3 at NovaSBE, 1 at Nova IMS)
-- **1 Ph.D. graduated**
+- **2 Ph.D. students** currently supervising (1 at NovaSBE, 1 at Nova IMS)
+- **2 Ph.D. graduated**
 
 ---
 
 ## 🗣️ Invited Talks, Keynotes, and other public speaking
+
+### 2026
+- **"Technology panel"** Panel participant – LisbonMBA Alumni Summit, at Nova School of Business and Economics, Lisbon, Portugal (February)
+- **"Teaching Excellence and Innovation (TEIC)"** Panel participant – Launch of the TEIC center at Nova School of Business and Economics, Lisbon, Portugal (February)
+- **"Technology Regulation Lab Dinner"** Presenter – at Westminster Palace, London, UK (February)
 
 ### 2025
 - **"The adoption of AI"** Panel participant – International Conference on Artificial Intelligence, Luanda, Angola (December)
