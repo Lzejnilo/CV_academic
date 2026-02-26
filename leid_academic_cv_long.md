@@ -382,7 +382,6 @@
 
 ## 💼 Past Professional Experience
 
-- **Associate Dean for AI and Digital Transformation** (April 2025 - Present)
 - **Assistant Professor**, Nova School of Business and Economics (Sep 2016 – Mar 2025)
 - **Academic Director**, With-Africa platform of the Westmont Tourism Knowledge Center at Nova School of Business and Economics (January 2021 – September 2025)
 - **Member of the Tourism International Academy launching committee** – a joint initiative of Nova University of Lisbon, Estoril School of Tourism, and Turismo de Portugal
