@@ -36,7 +36,9 @@
 
 ### Peer-Reviewed Journal Articles
 
-1. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" Forthcoming at the *Academy of Management Journal*
+1. **da Silva, R. C., Duymedjian, R., Rüling, C. C., Zejnilovic, L.** "Collective Bricolage To Know The Unknowable: Community-Based Learning And Practice Innovation For Generative AI" Forthcoming at the *Technological Forecasting and Social Change Journal*
+
+2. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P., Berti, M.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" Forthcoming at the *Academy of Management Journal*
 
 2. **Applebee, S., Zejnilovic, L.** (2026) " Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management* 
 
@@ -82,12 +84,11 @@
 ### Working Papers
 
 **Under Review**
-1. **da Silva, R. C., Duymedjian, R., Rüling, C. C., Zejnilovic, L.** "Collective Bricolage To Know The Unknowable: Community-Based Learning And Practice Innovation For Generative AI" 2 round R&R at the Technological Forecasting and Social Change Journal
+1. **Daramola, A., Zejnilovic, L. Berti, M., Cunha, M.P.** "The House That Rebuilds Itself: Social Architecture And Ecosystem Genesis In Weak Institutional Environments" (OrgSci)
 
 **To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
 2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
-3. **Daramola, A., Zejnilovic, L. Berti, M., Cunha, M.P.** "The House That Rebuilds Itself: Social Architecture And Ecosystem Genesis In Weak Institutional Environments"
 
 *Note: Approximately 10 additional papers are at various stages of development*
 
@@ -108,7 +109,7 @@
 - **Lavado S., Zejnilovic L.** "Building job seekers' profiles: can LLMs level the playing field?" *European Workshop on Algorithmic Fairness (EWAF'23)*
 
 **2023**
-- **Zejnilovic, L., Oliveira P., Coelho da Silva, R.** "Toolkits for safe mass AI-assisted innovation by citizens" *10th International Conference on Business Servitization*, Barcelona
+- **Zejnilovic, L., Oliveira, P., Coelho da Silva, R.** "Toolkits for safe mass AI-assisted innovation by citizens" *10th International Conference on Business Servitization*, Barcelona
 - **Coelho da Silva, R., Zejnilovic, L., Cunha, M. P., Oliveira, P., Berti, M.** "How Emergent Response Groups Emerge: The Role of Bricolage in Crisis Responses" *DRUID Conference*, Lisbon
 - **Wan, C., Zejnilovic, L., Lavado S.** "How Differential Robustness Creates Disparate Impact: A European Case Study" *European Workshop on Algorithmic Fairness (EWAF'23)*
 - **Wan, C., Belo, R., Zejnilovic, L., Lavado S.** "The Duet of Representations and How Explanations Exacerbate It" *1st World Conference On eXplainable Artificial Intelligence (xAI 2023)*
