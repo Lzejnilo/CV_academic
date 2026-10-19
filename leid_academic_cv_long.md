@@ -186,8 +186,11 @@
 ## 👥 Supervision
 
 - **120+ Master's theses** supervised (2013 - Present)
-- **2 Ph.D. students** currently supervising (1 at NovaSBE, 1 at Nova IMS)
-- **2 Ph.D. graduated**
+- **Ph.D. students** (2 graduated, 2 current):
+  - Ricardo Coelho da Silva (Nova SBE), completed 2024
+  - Sam Applebee (Nova SBE), completed 2025
+  - Ayodeji Daramola (Nova SBE), expected completion 2026
+  - Tassilo Pilar (Nova IMS), expected completion 2029
 
 ---
 
@@ -384,7 +387,7 @@
 - **Co-Founder of the program (and Scientific Director)** - Data Science for Managers, Executive Education program at Nova SBE.
 - **Program Director**, Data Science for Social Good Summer Fellowship @Imperial College (summer 2019)
 - **Visiting Researcher**, Imperial College Business School (May-August 2019)
-- **Director** at Data Science for Social Good – Europe (http://dssg.uchicago.edu/europe), a collaborative project between the University of Chicago and Nova SBE (since December 2016).
+- **Director** at Data Science for Social Good – Europe (http://dssg.uchicago.edu/europe), a collaborative project between the University of Chicago and Nova SBE (December 2016 – 2019).
 - **Postdoctoral Research Fellow**- Católica-Lisbon School of Business and Economics (2015-2016).
 - **Doctoral Student / Researcher**– Carnegie Mellon University (2009-2014)
 - **University Senate Member** - Dzemal Bijedic University, Dept. of Information Technology, Bosnia & Herzegovina (2008-2009)
