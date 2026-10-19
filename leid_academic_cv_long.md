@@ -68,13 +68,13 @@
 
 ### Peer-Reviewed Book Chapters
 
-1. **Coelho da Silva, R., Zejnilovic, L., Oliveira, P.** (2023) "Improvisation and Bricolage as actions: Similarities and differences between two approaches to resource scarcity" Chapter 1, in "The Routledge companion to improvisation in organizations", p. 29-49, Routledge
+1. **Coelho da Silva, R., Zejnilovic, L., Oliveira, P.** (2023) "Improvisation and Bricolage: Similarities and differences between two approaches to resource scarcity" Chapter 1, in "The Routledge Companion to Improvisation in Organizations", p. 29-49, Routledge
 
-2. **Zejnilovic, L., Campos, P.** (2023) "Project-based learning with a social impact: how data movements are making an impact on society and academic education" in J. Ridgway (ed.) Statistics for Empowerment and Social Engagement – teaching Civic Statistics to develop informed citizens. Springer
+2. **Zejnilovic, L., Campos, P.** (2023) "Project-Based Learning with a Social Impact: Connecting Data Science Movements, Civic Statistics, and Service-Learning" in J. Ridgway (ed.) Statistics for Empowerment and Social Engagement – teaching Civic Statistics to develop informed citizens. Springer
 
-3. **Oliveira, P., Zejnilovic, L., Canhão, H.** (2017) "Challenges and opportunities in developing and sharing solutions by patients and caregivers, the story of a knowledge commons for the patient innovation project" Governing Medical Research Commons- Cambridge Series on Governing Knowledge Commons, Cambridge Press
+3. **Oliveira, P., Zejnilovic, L., Canhão, H.** (2017) "Challenges and opportunities in developing and sharing solutions by patients and caregivers: the story of a knowledge commons for the patient innovation project" in Governing Medical Knowledge Commons, Cambridge Studies on Governing Knowledge Commons, Cambridge University Press
 
-4. **Zejnilovic, L., Oliveira, P., Canhão, H.** (2016) "Innovations by and for the patients: and how can we integrate them into the future health care system" Boundaryless hospital: rethink and redefine health care management, Springer
+4. **Zejnilovic, L., Oliveira, P., Canhão, H.** (2016) "Innovations by and for patients, and their place in the future health care system" in Boundaryless Hospital: Rethink and Redefine Health Care Management, p. 341-357, Springer
 
 ### Case Studies
 
@@ -90,11 +90,20 @@
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
 2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
 
+**Working Papers on SSRN**
+1. **Zejnilovic, L., Lavado, S., Soares, C., Martínez de Rituerto de Troya, Í., Bell, A., Ghani, R.** "Decision-Making with Human-in-the-Loop: A Field Experiment of Explained AI in Public Administration" SSRN 3715529
+2. **Han, Q., Zejnilovic, L., Abreu Novais, M.** (2019) "Tourism2vec: An Adaptation of Word2vec to Investigate Tourism Spatio-Temporal Behaviour" SSRN 3350125
+
 *Note: Approximately 10 additional papers are at various stages of development*
 
 ### Conference Proceedings (Peer-Reviewed)
 
+**2026**
+- **Daramola, A., Zejnilovic, L.** "AI for the People: Scaffolding for Developing High-Resource Ecosystems in Resource-Scarce Contexts" *Academy of Management Proceedings* 2026 (1), 11034
+
 **2025**
+- **Giesbrecht, M., Heinemann, L., Reichenbach, L., Zejnilovic, L., Beck, R.** "Shell Games in Plain Sight? Deception Strategies and Fraud in Blockchain Systems" *2025 IEEE International Conference on Distributed Ledger Technologies (ICDLT)*
+- **Eskandari, S., Zejnilovic, L., Clark, J.** "Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance" *2025 IEEE International Conference on Distributed Ledger Technologies (ICDLT)*
 - **Coelho da Silva, R., Rüling, C. C., Duymedjian, R., Zejnilovic, L.** "Knowing the Unknowable With Collective Bricolage: Communities of Practice for Generative AI Tools" *Academy of Management Proceedings* 2025 (1), 12814
 - **Applebee, S., Zejnilovic, L.** "'De Facto' Responsible Innovation in Early-Stage Ventures: The Orchestrating Role of Venture Capital" *Academy of Management Proceedings* 2025 (1), 12555
 
@@ -102,45 +111,49 @@
 - **Tchuente, D., Pandit, D. A., Zejnilovic, L.** "Digital Platforms in Africa: Science Mapping and Performance Analysis" *Proceedings of the Sixth International Conference on Information and Communication Technology for African Development, ICT4AD'24*
 - **Applebee, S., Zejnilovic, L.** "Responsible Innovation In the Wild: Institutionalising Responsibility in Digital Innovation" *Academy of Management Proceedings* 2024 (1), 14654
 - **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives" *Academy of Management Proceedings* 2024 (1), 16908
-- **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** "How Emergent Response Groups Emerge: The Role of Bricolage in Crisis Response" *Academy of Management Proceedings* 2024 (1), 18757
-- **Cardoso, F.S., Oliveira, J., Vasconcelos, H., Zejnilovic, L.** "Modeling Hackathons Platform for a Token Economy" *ACM BIOTC '24: Proceedings of the 2024 6th Blockchain and Internet of Things Conference*, Fukuoka
+- **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** "How Emergent Response Groups Emerge: The Role of Bricolage in Crisis Responses" *Academy of Management Proceedings* 2024 (1), 18757
+- **Cardoso, F.S., Oliveira, J., Vasconcelos, H., Zejnilovic, L.** "Modeling Hackathons Platform for a Token Economy" *BIOTC '24: Proceedings of the 2024 6th Blockchain and Internet of Things Conference*, 59-66, Fukuoka
 - **Novais, M.A., Han, Q., Zejnilovic, L.** "Using mobile data to investigate visitor movement" *CAUTHE 2024 Conference Proceedings*
 - **Lavado, S., Zejnilovic, L., Wan, C.** "Human oversight of algorithmic decisions: a post-deployment empirical investigation" *Data for Policy*, Imperial College, UK
+- **Lavado, S., Zejnilovic, L.** "Building job seekers' profiles: can LLMs level the playing field?" *European Workshop on Algorithmic Fairness (EWAF'24)*
 
 **2023**
 - **Zejnilovic, L., Oliveira, P., Coelho da Silva, R.** "Toolkits for safe mass AI-assisted innovation by citizens" *10th International Conference on Business Servitization*, Barcelona
 - **Coelho da Silva, R., Zejnilovic, L., Cunha, M. P., Oliveira, P., Berti, M.** "How Emergent Response Groups Emerge: The Role of Bricolage in Crisis Responses" *DRUID Conference*, Lisbon
-- **Lavado, S., Zejnilovic, L.** "Building job seekers' profiles: can LLMs level the playing field?" *European Workshop on Algorithmic Fairness (EWAF'23)*
-- **Wan, C., Zejnilovic, L., Lavado, S.** "How Differential Robustness Creates Disparate Impact: A European Case Study" *European Workshop on Algorithmic Fairness (EWAF'23)*
-- **Wan, C., Belo, R., Zejnilovic, L., Lavado, S.** "The Duet of Representations and How Explanations Exacerbate It" *1st World Conference On eXplainable Artificial Intelligence (xAI 2023)*
+- **Wan, C., Zejnilovic, L., Lavado, S.** "How Differential Robustness Creates Disparate Impact: A European Case Study" *European Workshop on Algorithmic Fairness (EWAF'23)*, CEUR Workshop Proceedings
+- **Wan, C., Belo, R., Zejnilovic, L., Lavado, S.** "The Duet of Representations and How Explanations Exacerbate It" *1st World Conference on eXplainable Artificial Intelligence (xAI 2023)*, Communications in Computer and Information Science, 181-197
 
 **2022**
-- **Lavado, S., Zejnilovic, L., Mateus, M.** "The Performance-Actionability Trade-Off in Retention Prediction at Middle School" *21st IEEE International Conference of Machine Learning and Applications*
-- **Wan, C., Belo, R., Zejnilovic, L.** "Explainability's Gain is Optimality's Loss? — How Explanations Mislead" *5th AAAI/ACM Conference on AI, Ethics, and Society*
+- **Lavado, S., Mateus, M., Zejnilovic, L.** "The Performance-Actionability Trade-Off in Retention Prediction at Middle School" *21st IEEE International Conference on Machine Learning and Applications (ICMLA 2022)*
+- **Wan, C., Belo, R., Zejnilovic, L.** "Explainability's Gain is Optimality's Loss? How Explanations Bias Decision-Making" *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES '22)*, 778-787
 - **Coelho da Silva, R., Zejnilovic, L., Oliveira, P.** "Searching for user innovators and user innovations: A review of currently used methods and future opportunities" *DRUID22*, Copenhagen, Denmark
 
 **2021**
 - **Wan, C., Belo, R., Zejnilovic, L.** "Explainability's Gain is Optimality's Loss? - An Empirical Study" *CODE@MIT*, Poster Session
-- **Zejnilovic, L., Lavado, S., Soares, C., Troya, I. M. R., Bell, A., Ghani, R.** "Explainable algorithms and human decision-making: a field-intervention in a public employment service" *Academy of Management Annual Meeting*, Best Papers Proceeding
+- **Zejnilovic, L., Lavado, S., Soares, C., Martínez de Rituerto de Troya, Í., Bell, A., Ghani, R.** "Machine Learning Informed Decision-Making with Interpreted Model's Outputs: A Field Intervention" *Academy of Management Proceedings* 2021 (1), 15424, Best Papers Proceedings
+
+**2020**
+- **Oliveira, P., Zejnilovic, L., Canhão, H.** "Patients and Informal Caregivers as Healthcare User Innovators" *Academy of Management Proceedings* 2020 (1), 19747
 
 **2019**
-- **Bell, A., Rich, A., Teng, O., Oreskovic, T., Brás, N., Mestrinho, L., Pristas, I., Zejnilovic, L.** "Proactive advising: a machine learning driven approach to vaccine hesitancy" *The Seventh IEEE International Conference on Healthcare Informatics (ICHI 2019)*, Beijing
+- **Bell, A., Rich, A., Teng, M., Orešković, T., Brás, N. B., Mestrinho, L., Golubovic, S., Pristas, I., Zejnilovic, L.** "Proactive advising: a machine learning driven approach to vaccine hesitancy" *The Seventh IEEE International Conference on Healthcare Informatics (ICHI 2019)*, 1-6, Beijing
 
 **2018**
-- **Troya, I. M. R, Chen, R., Moraes, L. O., Bajaj, P., Kupersmith, J., Ghani, R., Brás, N., Zejnilovic, L.** "Predicting, explaining, and understanding risk of long-term unemployment" *NeurIPS*, Montreal, Canada
-- **Han, Q., Ji, M., Martinez, I.R., Gaur, M., Zejnilovic, L.** "Hybrid Recommender System for Patient-Doctor Matchmaking in Primary Care" *The 5th IEEE International Conference on Data Science and Advanced Analytics*, Italy
-- **Han, Q., Martinez, I.R., Ji, M., Gaur, M., Zejnilovic, L.** "Matchmaking between patients and doctors towards a trusting relationship in primary care" *The Sixth IEEE International Conference on Healthcare Informatics (ICHI 2018)*, New York
+- **Martínez de Rituerto de Troya, Í., Chen, R., Moraes, L. O., Bajaj, P., Kupersmith, J., Ghani, R., Brás, N., Zejnilovic, L.** "Predicting, explaining, and understanding risk of long-term unemployment" *NeurIPS Workshop on AI for Social Good*, Montreal, Canada
+- **Han, Q., Ji, M., Martínez de Rituerto de Troya, Í., Gaur, M., Zejnilovic, L.** "A Hybrid Recommender System for Patient-Doctor Matchmaking in Primary Care" *2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)*, Turin, Italy
+- **Han, Q., Martínez de Rituerto de Troya, Í., Ji, M., Gaur, M., Zejnilovic, L.** "A Collaborative Filtering Recommender System in Primary Care: Towards a Trusting Patient-Doctor Relationship" *The Sixth IEEE International Conference on Healthcare Informatics (ICHI 2018)*, 377-379, New York
 
 **2017**
+- **Zejnilovic, L., Canhão, H., Oliveira, P.** "Adoption of health-related solutions developed by patients and caregivers" *Academy of Management Proceedings* 2017 (1), 16661
 - **Han, Q., Zejnilovic, L.** "Recommender Systems in Physical Retailing: Practices, Prospects and Policy Perspectives" *The 3rd International Conference on Data for Policy*, London UK
 - **Zejnilovic, L., Han, Q.** "The challenges and benefits of automated mediation system: case study of healthcare management" *The 3rd International Conference on Data for Policy*, London UK
 
 **2015**
-- **Zejnilovic, L., Oliveira, P., Canhão, H.** "Patient innovation and adoption, and the role of the content of social interactions" *Academy of Management Meeting*, Vancouver, U.S.A.
+- **Zejnilovic, L., Oliveira, P., Canhão, H.** "Patient innovation and adoption, and the role of the content of social interactions" *Academy of Management Proceedings* 2015 (1), 12420, Vancouver, U.S.A.
 
 **2014**
 - **Zejnilovic, L., Oliveira, P., Canhão, H., von Hippel, E.** "Patient innovation under Rare Diseases and Chronic Needs" *12th Open and User Innovation Society Meeting*, Harvard, U.S.A.
-- **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** "Patient innovation under rare diseases and chronic condition" *7th European Conference on Rare Diseases and Orphan Products (ERCD 2014)*, Orphanet Journal of Rare Diseases, 9(Supp1):O33
+- **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** "Patient innovation under rare diseases and chronic needs" *7th European Conference on Rare Diseases and Orphan Products (ECRD 2014)*, Orphanet Journal of Rare Diseases 9(Suppl 1), O33
 - **Zejnilovic, L., Oliveira, P.** "Innovation efforts, diffusion, and fall-offs of innovation activity in medical patients community" *Academy of Management Proceedings* 2014 (1), 17571
 - **Fidelis, T., Zejnilovic, L., Oliveira, P.** "Diffusion as a Validation Process: Learning from Patient Innovators" *Academy of Management Proceedings* 2014 (1), 17138
 
@@ -152,6 +165,9 @@
 
 **2008**
 - **Zejnilovic, L., Velagic, J.** "Novel algorithm for space exploration and path optimization through a network of mobile agents" *Proceedings of the IEEE DHMS*, Athens, Greece
+
+**2003**
+- **Draca, D., Spalevic, P., Spalevic, L., Zejnilovic, L.** "Optical signal detection in the presence of intersymbol interference, white Gaussian and pulse noise" *6th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Services (TELSIKS 2003)*
 
 ### Other Conference Presentations
 
@@ -176,10 +192,11 @@
 - **Zejnilovic, L., Oliveira, P.** "The hurdles to diffusion of a user innovation in a market dominated by experts – the case of PEARS" *15th Open and User Innovation Conference*, Innsbruck
 
 **2016**
+- **Zejnilovic, L., Oliveira, P.** "Development, adoption, and attitudes towards health-related solutions developed by citizens – A representative survey in Portugal" *14th International Open and User Innovation Conference*, Boston
 - **Zejnilovic, L., Oliveira, P., Desic, S.** "Online Idea Management System and the non-programmed innovations, an affordances perspective" *Open and User Innovation Society meeting*, Harvard University
 
 **2013**
-- **Zejnilovic, L., Oliveira, P.** "Innovation Efforts by Rare Diseases Patients: Who, What, and How" *The Proceedings of the 6th ISPIM Innovation Symposium*, Melbourne
+- **Zejnilovic, L., Oliveira, P.** "Innovation Efforts by Rare Diseases Patients: Who, What, and Why?" *The Proceedings of the 6th ISPIM Innovation Symposium*, Melbourne
 
 ---
 
