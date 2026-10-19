@@ -90,10 +90,6 @@
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
 2. **Daramola, A., Zejnilovic, L., Berti, M., Cunha, M. P., Miric, M.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
 
-**Working Papers on SSRN**
-1. **Zejnilovic, L., Lavado, S., Soares, C., Martínez de Rituerto de Troya, Í., Bell, A., Ghani, R.** "Decision-Making with Human-in-the-Loop: A Field Experiment of Explained AI in Public Administration" SSRN 3715529
-2. **Han, Q., Zejnilovic, L., Abreu Novais, M.** (2019) "Tourism2vec: An Adaptation of Word2vec to Investigate Tourism Spatio-Temporal Behaviour" SSRN 3350125
-
 *Note: Approximately 10 additional papers are at various stages of development*
 
 ### Conference Proceedings (Peer-Reviewed)
