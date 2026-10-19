@@ -38,33 +38,33 @@
 
 1. **Coelho da Silva, R., Rüling, C. C., Duymedjian, R., Zejnilovic, L.** (2026) "Learning about unknowable tools: Bricolage in communities of practice for generative AI" *Technological Forecasting and Social Change* 230, 124738
 
-2. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" *Academy of Management Journal* (forthcoming)
+2. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" *Academy of Management Journal*, advance online publication, https://doi.org/10.5465/amj.2024.0486
 
-3. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management*
+3. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management*, advance online publication, https://doi.org/10.1111/jpim.70026
 
 4. **Applebee, S., Zejnilovic, L.** (2026) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Reinforcing Role of Impact Investors" *Journal of Responsible Innovation* 13(1), 2597060
 
-5. **Abreu-Novais, M., Vasarhelyi, O., Kaushik, M., Del Papa, B., Wang, Y., Han, Q., Zejnilovic, L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Marketing*
+5. **Abreu Novais, M., Del Papa, B., Han, Q., Mohan, K., Vásárhelyi, O., Wang, Y., Zejnilovic, L.** (2026) "Investigating patterns of tourist movement using multiple data sources" *Journal of Vacation Marketing* 32(2), 709-724
 
 6. **Lavado, S., Costa, E., Sturm, N. S., Tafferner, J.S., Rodrigues, O., Barros, P.P., Zejnilovic, L.** (2025) "Low-cost and scalable machine learning model for identifying children and adolescents with poor oral health using survey data: An empirical study in Portugal" *PLOS ONE* 20(1), e0312075
 
-7. **Zejnilovic, L., Lavado, S., Grilo, C., Sa, R., Faias, S.** (2024) "Small-scale fisheries in Portugal: unusual patterns of the first sale of seafood during the COVID-19 pandemic" *Marine Policy*
+7. **Zejnilovic, L., Lavado, S., Grilo, C., Sa, R., Faias, S.** (2024) "The effects of COVID-19 restrictions on Portuguese marine small-scale fisheries: A regional analysis" *Marine Policy* 165, 106156
 
 8. **Cennamo, C., Oliveira, P., Zejnilovic, L.** (2022) "Unlocking Innovation in Healthcare: The Case of the Patient Innovation Platform" *California Management Review* 64(4), 47-77
 
 9. **Han, Q., Abreu, M., Zejnilovic, L.** (2021) "Toward travel pattern aware tourism region planning: A big data approach" *International Journal of Contemporary Hospitality Management*
 
-10. **Zejnilovic, L., Lavado, S., Troya, I.M.R., Bell, A., Sim, S.** (2020) "Algorithmic long-term unemployment risk assessment in use: counsellors' perceptions and use practices" *Global Perspectives* 1(1)
+10. **Zejnilovic, L., Lavado, S., Martínez de Rituerto de Troya, Í., Sim, S., Bell, A.** (2020) "Algorithmic long-term unemployment risk assessment in use: Counselors' perceptions and use practices" *Global Perspectives* 1(1), 12908
 
 11. **Genzlinger, F., Zejnilovic, L., Bustinza, O. F.** (2020) "Servitization in the automotive industry: How car manufacturers become mobility service providers" *Strategic Change* 29(2), 215-226
 
 12. **Oliveira, P., Zejnilovic, L., Azevedo, S., Rodrigues, A. M., Canhão, H.** (2019) "Peer Adoption and Development of Health Innovations by Patients: National Representative Study of 6204 Citizens" *Journal of Medical Internet Research* 21(3), e11726
 
-13. **Canhão, H., Zejnilovic, L., Oliveira, P.** (2017) "Patient innovation: Sharing Solutions, Improving lives" *European Medical Journal*
+13. **Canhão, H., Zejnilovic, L., Oliveira, P.** (2017) "Revolutionising healthcare by empowering patients to innovate" *European Medical Journal Innovations* 1(1), 31-34
 
 14. **Canhão, H., Oliveira, P., Zejnilovic, L.** (2017) "Patient Innovation — Empowering Patients, Sharing Solutions, Improving Lives" *NEJM Catalyst Innovations in Care Delivery*
 
-15. **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** (2015) "Patient innovation under rare diseases and chronic conditions" *Orphanet Journal of Rare Diseases* 10, 41
+15. **Oliveira, P., Zejnilovic, L., Canhão, H., von Hippel, E.** (2015) "Innovation by patients with rare diseases and chronic needs" *Orphanet Journal of Rare Diseases* 10, 41
 
 ### Peer-Reviewed Book Chapters
 
