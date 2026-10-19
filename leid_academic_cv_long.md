@@ -88,7 +88,7 @@
 
 **To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
-2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
+2. **Daramola, A., Zejnilovic, L., Berti, M., Cunha, M. P., Miric, M.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
 
 **Working Papers on SSRN**
 1. **Zejnilovic, L., Lavado, S., Soares, C., Martínez de Rituerto de Troya, Í., Bell, A., Ghani, R.** "Decision-Making with Human-in-the-Loop: A Field Experiment of Explained AI in Public Administration" SSRN 3715529
