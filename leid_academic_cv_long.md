@@ -88,7 +88,7 @@
 
 **To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
-2. **Daramola, A., Zejnilovic, L.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
+2. **Daramola, A., Zejnilovic, L., Berti, M., Cunha, M. P., Miric, M.** "Cultivating AI Gardens in Emerging Markets, the Role of Community-Led Initiatives"
 
 **Working Papers on SSRN**
 1. **Zejnilovic, L., Lavado, S., Soares, C., Martínez de Rituerto de Troya, Í., Bell, A., Ghani, R.** "Decision-Making with Human-in-the-Loop: A Field Experiment of Explained AI in Public Administration" SSRN 3715529
@@ -215,6 +215,8 @@
 ## 🗣️ Invited Talks, Keynotes, and other public speaking
 
 ### 2026
+- **NEOMA Business School Innovation Symposium** Invited Speaker (May)
+- **TBS Education International AI Day** Guest Speaker – Toulouse, France (April)
 - **"Technology panel"** Panel participant – LisbonMBA Alumni Summit, at Nova School of Business and Economics, Lisbon, Portugal (February)
 - **"Teaching Excellence and Innovation (TEIC)"** Panel participant – Launch of the TEIC center at Nova School of Business and Economics, Lisbon, Portugal (February)
 - **"Technology Regulation Lab Dinner"** Presenter – at Westminster Palace, London, UK (February)
