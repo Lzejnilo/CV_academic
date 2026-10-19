@@ -99,7 +99,7 @@
 ### Conference Proceedings (Peer-Reviewed)
 
 **2026**
-- **Lavado, S., Carvalho, J., Vasconcelos, H., Zejnilovic, L.** "A Two-Signal Approach to Measuring Reliance on AI Assistants for Analytical Work" *International Conference on Information Systems (ICIS 2026)*
+- **Lavado, S., Carvalho, J., Vasconcelos, H., Zejnilovic, L.** "A Two-Signal Approach to Measuring Reliance on AI Assistants for Analytical Work" *International Conference on Information Systems (ICIS 2026)*, Lisbon, Portugal
 - **Daramola, A., Zejnilovic, L.** "AI for the People: Scaffolding for Developing High-Resource Ecosystems in Resource-Scarce Contexts" *Academy of Management Proceedings* 2026 (1), 11034
 
 **2025**
