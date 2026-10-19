@@ -38,13 +38,13 @@
 
 1. **Coelho da Silva, R., Rüling, C. C., Duymedjian, R., Zejnilovic, L.** (2026) "Learning about unknowable tools: Bricolage in communities of practice for generative AI" *Technological Forecasting and Social Change* 230, 124738
 
-2. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" *Academy of Management Journal* (forthcoming)
+2. **Coelho da Silva, R., Zejnilovic, L., Berti, M., Cunha, M. P., Oliveira, P.** (2026) "Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality" *Academy of Management Journal*, advance online publication, https://doi.org/10.5465/amj.2024.0486
 
-3. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management*
+3. **Applebee, S., Zejnilovic, L.** (2026) "Responsible Innovation in the Wild: A Process Model of How Responsible Innovation Practices Emerge in Heterogeneous Organizational Networks" *Journal of Product Innovation Management*, advance online publication, https://doi.org/10.1111/jpim.70026
 
 4. **Applebee, S., Zejnilovic, L.** (2026) "'De Facto' Responsible Innovation in Early-Stage Ventures: The Reinforcing Role of Impact Investors" *Journal of Responsible Innovation* 13(1), 2597060
 
-5. **Abreu-Novais, M., Vasarhelyi, O., Kaushik, M., Del Papa, B., Wang, Y., Han, Q., Zejnilovic, L.** (2025) "Investigating tourist personas with spatial behavior: a case study using large-scale mobile signaling data" *Journal of Vacation Marketing*
+5. **Abreu Novais, M., Del Papa, B., Han, Q., Mohan, K., Vásárhelyi, O., Wang, Y., Zejnilovic, L.** (2026) "Investigating patterns of tourist movement using multiple data sources" *Journal of Vacation Marketing* 32(2), 709-724
 
 6. **Lavado, S., Costa, E., Sturm, N. S., Tafferner, J.S., Rodrigues, O., Barros, P.P., Zejnilovic, L.** (2025) "Low-cost and scalable machine learning model for identifying children and adolescents with poor oral health using survey data: An empirical study in Portugal" *PLOS ONE* 20(1), e0312075
 
