@@ -215,6 +215,8 @@
 ## 🗣️ Invited Talks, Keynotes, and other public speaking
 
 ### 2026
+- **NEOMA Business School Innovation Symposium** Invited Speaker (May)
+- **TBS Education International AI Day** Guest Speaker – Toulouse, France (April)
 - **"Technology panel"** Panel participant – LisbonMBA Alumni Summit, at Nova School of Business and Economics, Lisbon, Portugal (February)
 - **"Teaching Excellence and Innovation (TEIC)"** Panel participant – Launch of the TEIC center at Nova School of Business and Economics, Lisbon, Portugal (February)
 - **"Technology Regulation Lab Dinner"** Presenter – at Westminster Palace, London, UK (February)
