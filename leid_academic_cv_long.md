@@ -84,7 +84,7 @@
 ### Working Papers
 
 **Under Review**
-1. **Daramola, A., Zejnilovic, L. Berti, M., Cunha, M.P.** "The House That Rebuilds Itself: Social Architecture And Ecosystem Genesis In Weak Institutional Environments" (OrgSci)
+1. **Daramola, A., Zejnilovic, L., Berti, M., Cunha, M.P., Cennamo, C.** "The House That Rebuilds Itself: Social Architecture And Ecosystem Genesis In Weak Institutional Environments" *Organization Science* (Revise & Resubmit)
 
 **To be (re)submitted in 2026**
 1. **Wan, C., Zejnilovic, L.** "Algorithmic Explanations and Organizational Attention"
